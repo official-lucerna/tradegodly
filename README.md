@@ -6,7 +6,7 @@ Journal your trades, learn from your mistakes, and grow effectively evolving fro
 # ⚙️ Installations
 ## Github
 ```
-git clone https://github.com/firstdecree/tradegodly
+git clone https://github.com/official-lucerna/tradegodly
 ```
 
 ## NpmJS
@@ -30,7 +30,7 @@ To deploy TradeGodly, first create a [Vercel](https://vercel.com/) account. Then
 node index.js
 ```
 
-# 🌟 Backers & Sponsors
+# 🌟 Patrons
 <table border="1">
     <tr>
         <td style="text-align: center; padding: 10px;">
